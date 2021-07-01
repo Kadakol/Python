@@ -1,0 +1,4 @@
+
+    Some lines
+    Write them to the file
+    Done
